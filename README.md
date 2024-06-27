@@ -1,6 +1,6 @@
 This repo is to support and document the Microcontroller Makerthon happening 28 29 30 June 2024 at FabLabNK.
 
-![Makerthon Poster](./MakerthonPoster.jpg)
+<img src="./MakerthonPoster.jpg" alt="Makerthon Poster" height="400">
 
 ## Schedule
 
