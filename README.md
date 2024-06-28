@@ -3,8 +3,10 @@ This repo is to support and document the Microcontroller Makerthon happening 28 
 <img src="./MakerthonPoster.jpg" alt="Makerthon Poster" height="400">
 
 ## Important info
+- No drinks anywhere but the sofa area and no alcohol in the lab
+- Use a hub where possible for connecting Arduinos to lab PC's: don't burn our USB ports :)
 - Our goal is proof-of-concept prototypes: not finished products!
-- Use a hub for connecting Arduinos to lab PC's: don't burn our USB ports :)
+- Reduced price drinks tokens from bar
 - Bring extra equipment - we don't have everything!
 	- USB cables (micro, C, mini), breadboards, etc (label your stuff)
 - Share knowledge/inspiration in the #makerthon Slack channel
@@ -20,13 +22,14 @@ This repo is to support and document the Microcontroller Makerthon happening 28 
 - 18:30 Two options/groups:
 	1. Starter project: introduction to sensing
 	2. Brainstorming and idea generation
-- 20:30 Donuts and decisions: finalising teams and project choices
+- 20:30 Donuts and decisions: choosing teams and projects
 - 21:00 The real making can begin :)
 
 ### Sat 10-22
 - 10:00 Lab opens
 - 13:30 Luiz and Martin: Drone research presentation
 - 14:00 Get-together 1: Coffee + discuss project progress
+- 20:15 Diana and Hannes: Stroboscope presentation (TBC)
 - 20:30 Get-together 2: Foodshared late dinner + discuss project progress
 - 22:00 Official close (or make into the night!)
 
@@ -35,6 +38,12 @@ This repo is to support and document the Microcontroller Makerthon happening 28 
 - 13:30 Submit your project: pitches and prizes
 - 14:00 Buffet lunch
 - 15:00 Official event close
+
+## Teams
+
+- Max 4 people per team, ideally with mix of abilities
+- If you already know who you want to work with, let us know!
+- Teams can work on the same project basis (encouraged!)
 
 ## Suggested Projects
 
@@ -97,4 +106,22 @@ For a quick guide of what to do when you can't upload to Arduino's or ESP32's, l
 
 ## Prizes
 
-Info coming soon :)
+Will be awarded at 2pm on Sunday
+
+### Individual (Merch)
+
+During your pitch, you may nominate one member of your team for any of the following prizes and give a reason:
+
+- **Dedication prize**: most hours logged or perseverence in solving a problem (wins a mug)
+- **Progression prize**: most learned during the Makerthon (wins a t-shirt)
+- **Creativity prize**: most creative idea or contribution (wins a hoodie)
+
+The winners will be decided by public vote
+
+### Grand Group Prize
+
+- Up to 250 euros from the FabLab budget to develop the project further / build a prototype
+- Production of a custom printed circuit board (if appropriate)
+- Chance to run the project as a FabLab workshop for others to build
+
+The winning group will be decided by FabLab managers Zandra and Graham
