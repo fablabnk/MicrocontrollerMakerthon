@@ -42,7 +42,7 @@ All projects are just jumping-off points that we already have some equipment for
 
 ### 1: Introduction to Arduino and Sensors
 
-- We will kick-off the makerthon with (this project)[https://www.youtube.com/watch?v=q9UCSynDEw8] to learn and refresh some basics
+- We will kick-off the makerthon with [this project](https://www.youtube.com/watch?v=q9UCSynDEw8) to learn and refresh some basics
 - Sensors are the core of most microcontroller projects
 	- practice with four of them to measure temperature, humidity, distance, motion and orientation
 - Use what you learn as the basis for your Makerthon project
